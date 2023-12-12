@@ -17,7 +17,7 @@ After downloading it open it in your text editor of choice. Place your API key f
 api_param = "[API]" #Enter your API Key here
 ```
 Open Terminal
-```
+```python
 python3 EasyAbuse.py
 ```
 
