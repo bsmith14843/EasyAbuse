@@ -4,7 +4,7 @@
 I deal with AbuseIPDB on a daily basis with my work. Traditionally I'd just go to their website and submit the IPs that way. I figured I would make it easier for folks that may not be very technical (though I know this is a SUPER basic program). 
 
 ## Requirements 
-*Python3
+* Python3
 ## Installation / Use
 
 Either download the zip or fetch it. 
