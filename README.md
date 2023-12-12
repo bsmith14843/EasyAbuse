@@ -22,7 +22,7 @@ python3 EasyAbuse.py
 ```
 
 ## Future Goals
-Though I know this is a super basic program, I do plan on eventually adding some pieces. Hopefully something to report the IPs. I'm open to suggestions. 
+Though I know this is a super basic program, I do plan on eventually adding some pieces. Hopefully something to report the IPs. I'm also open to suggestions. 
 
 ## Notes
 I'm not a programmer by any means :)
